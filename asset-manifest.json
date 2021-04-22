@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saasfront/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/saasfront/static/js/main.085ea4b5.chunk.js",
+    "main.js.map": "/saasfront/static/js/main.085ea4b5.chunk.js.map",
+    "runtime-main.js": "/saasfront/static/js/runtime-main.260bc131.js",
+    "runtime-main.js.map": "/saasfront/static/js/runtime-main.260bc131.js.map",
+    "static/js/2.42f325ea.chunk.js": "/saasfront/static/js/2.42f325ea.chunk.js",
+    "static/js/2.42f325ea.chunk.js.map": "/saasfront/static/js/2.42f325ea.chunk.js.map",
+    "static/js/3.96027f00.chunk.js": "/saasfront/static/js/3.96027f00.chunk.js",
+    "static/js/3.96027f00.chunk.js.map": "/saasfront/static/js/3.96027f00.chunk.js.map",
+    "index.html": "/saasfront/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/saasfront/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.42f325ea.chunk.js.LICENSE.txt": "/saasfront/static/js/2.42f325ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.260bc131.js",
+    "static/js/2.42f325ea.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.085ea4b5.chunk.js"
+  ]
+}
